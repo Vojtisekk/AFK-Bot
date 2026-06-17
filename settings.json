@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "prciprciprcsleonkou.aternos.me:22594",
+    "ip": "prciprciprcsleonkou.aternos.me",
     "port": 22594,
     "version": "1.21.8",
     "try-creative": false
